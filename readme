@@ -1,0 +1,5 @@
+1.Input your database using the input_mongo.py file(details are given in the file).
+2.Run the movie_summary_classifier.py file
+3.Run flaskmain.py file
+4.Go on your browser search localhost:5000
+5.D--o--n--e
